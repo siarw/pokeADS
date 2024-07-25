@@ -9,3 +9,9 @@ Syntax: pokeads #AUTH AUTH1 AUTH2 ... AUTHN AND|OR REF|NON START_YEAR END_YEAR
  AND|OR                : how to combine authors (must pick one)
  REF|NON               : refereed or non- (must pick one)
  START_YEAR [,END_YEAR]: years to search, END optional
+
+# NOTE:
+
+This script no longer works. 
+I need to update it to work with the current ADS API.
+That's on my todo list.
